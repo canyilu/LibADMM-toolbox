@@ -17,7 +17,7 @@ C. Lu, J. Feng, S. Yan, Z. Lin. A Unified Alternating Direction Method of Multip
 Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018
 C. Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016.
 https://github.com/canyilu/LibADMM.
-}</pre></div>
+</pre></div>
 
 <div class="highlight-none"><div class="highlight"><pre>
 <ul>
