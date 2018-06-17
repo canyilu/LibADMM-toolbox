@@ -1,11 +1,14 @@
-### LibADMM
-This toolbox solves many sparse, low-rank matrix and low-rank tensor optimization problems by using ADMM developed in our paper below. 
+## LibADMM
 
-Canyi Lu, Jiashi Feng, Shuicheng Yan, Zhouchen Lin. A Unified Alternating Direction Method of Multipliers by Majorization Minimization, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017
+### Introduction
 
-The list of problems solved in this toolbox are as follows.
+This toolbox solves many sparse, low-rank matrix and low-rank tensor optimization problems by using M-ADMM developed in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
+
+### List of Problems
+
+The table below gives the list of problems solved in our toolbox. The detailed definitions of these tensor concepts, operations and tensor factorizations are given at <a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">https://canyilu.github.io/publications/2018-software-libadmm.pdf</a>. 
+
 ![Alt text](https://github.com/canyilu/LibADMM/blob/master/libadmm_problems.JPG)
-
 
 
 ### Citing
@@ -40,3 +43,12 @@ volume       = {40},
 number       = {3},
 pages        = {527—-541},
 }</pre></div>
+
+### References
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td>C. Lu, J. Feng, S. Yan, Z. Lin. A Unified Alternating Direction Method of Multipliers by Majorization Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018</td></tr>
+</tbody>
+</table>
+
