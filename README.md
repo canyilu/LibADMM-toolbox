@@ -18,15 +18,15 @@ Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vo
 C. Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016.
 https://github.com/canyilu/LibADMM.
 </pre></div>
-
-<div class="highlight-none"><div class="highlight"><pre>
+  
 <ul>
+<div class="highlight-none"><div class="highlight"><pre>
   <li> C. Lu, J. Feng, S. Yan, Z. Lin. A Unified Alternating Direction Method of Multipliers by Majorization 
 Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018.</a></li>
   <li>C. Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016.
 https://github.com/canyilu/LibADMM.</li>
-</ul>
 </pre></div>
+</ul>
 
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
