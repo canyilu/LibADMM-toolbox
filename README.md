@@ -27,7 +27,7 @@ https://github.com/canyilu/LibADMM.
 <div class="highlight-none"><div class="highlight"><pre>
 @manual{lu2016libadmm,
 author       = {Lu, Canyi},
-title        = {A Library of ADMM for Sparse and Low-rank Optimization},
+title        = {A Library of {ADMM} for Sparse and Low-rank Optimization},
 organization = {National University of Singapore},
 month        = {June},
 year         = {2016},
