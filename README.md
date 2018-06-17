@@ -6,7 +6,7 @@ This toolbox solves many sparse, low-rank matrix and low-rank tensor optimizatio
 
 ### List of Problems
 
-The table below gives the list of problems solved in our toolbox. The detailed definitions of these tensor concepts, operations and tensor factorizations are given at <a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">https://canyilu.github.io/publications/2016-software-LibADMM.pdf</a>. 
+The table below gives the list of problems solved in our toolbox. See more details in the manual at <a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">https://canyilu.github.io/publications/2016-software-LibADMM.pdf</a>. 
 
 ![Alt text](https://github.com/canyilu/LibADMM/blob/master/libadmm_problems.JPG)
 
