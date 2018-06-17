@@ -13,9 +13,10 @@ The list of problems solved in this toolbox are as follows.
 <p>In citing this toolbox in your papers, please use the following references:</p>
 
 <div class="highlight-none"><div class="highlight"><pre>
-Canyi Lu, Jiashi Feng, Shuicheng Yan and Zhouchen Lin. A Unified Alternating Direction Method of Multipliers
-by Majorization Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018
-Canyi Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016. https://github.com/canyilu/LibADMM.
+C. Lu, J. Feng, S. Yan, Z. Lin. A Unified Alternating Direction Method of Multipliers by Majorization 
+Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018
+Canyi Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016.
+https://github.com/canyilu/LibADMM.
 }</pre></div>
 
 
