@@ -27,6 +27,14 @@ function [L,S,obj,err,iter] = trpca_tnn(X,lambda,opts)
 %
 % Written by Canyi Lu (canyilu@gmail.com)
 % 
+% References: 
+% [1] Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng
+%     Yan, Tensor Robust Principal Component Analysis with A New Tensor Nuclear
+%     Norm, arXiv preprint arXiv:1804.03728, 2018
+% [2] Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng
+%     Yan, Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted 
+%     Low-Rank Tensors via Convex Optimization, arXiv preprint arXiv:1804.03728, 2018
+%
 
 tol = 1e-8; 
 max_iter = 500;
