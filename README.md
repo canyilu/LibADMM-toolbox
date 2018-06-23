@@ -45,6 +45,14 @@ number       = {3},
 pages        = {527—-541},
 }</pre></div>
 
+### Version History
+- Version 1.0 was released on June, 2016.
+- Version 1.1 was released on June, 2018. Some key differences are below:
+  + Add a new model about low-rank tensor recovery from Gaussian measurements based on tensor nuclear norm and the corresponding function lrtr_Gaussian_tnn.m
+  + Update several functions to improve the efficiency, including prox_tnn.m, tprod.m, tran.m, tubalrank.m, and nmodeproduct.m
+  + Update the three example functions: example_sparse_models.m, example_low_rank_matrix_models.m, and example_low_rank_tensor_models.m
+  + Remove the test on image data and some unnecessary functions
+
 ### References
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
