@@ -21,7 +21,9 @@ For any problems, please contact Canyi Lu (canyilu@gmail.com).
 Version 1.0 (Jun, 2016)
 
 Version 1.1 (Jun, 2018)
-- add a new model low-rank tensor recovery from Gaussian measurements based on tensor nuclear norm and the corresponding function lrtr_Gaussian_tnn.m
+- add a new model about low-rank tensor recovery from Gaussian measurements based on tensor nuclear norm and the corresponding function lrtr_Gaussian_tnn.m
 - update several functions to improve the efficiency, including prox_tnn.m, tprod.m, tran.m, tubalrank.m, and nmodeproduct.m
 - update the three example functions: example_sparse_models.m, example_low_rank_matrix_models.m, and example_low_rank_tensor_models.m
 - remove the test on image data and some unnecessary functions
+
+
