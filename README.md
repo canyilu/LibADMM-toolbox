@@ -8,8 +8,9 @@ This toolbox solves many sparse, low-rank matrix and low-rank tensor optimizatio
 
 The table below gives the list of problems solved in our toolbox. See more details in the manual at <a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">https://canyilu.github.io/publications/2016-software-LibADMM.pdf</a>. 
 
-![Alt text](https://github.com/canyilu/LibADMM/blob/master/libadmm_problems.JPG)
-
+<p align="center"> 
+<img src="https://github.com/canyilu/LibADMM/blob/master/tab_problemlist.JPG">
+</p>
 
 ### Citing
 
