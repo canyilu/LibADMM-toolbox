@@ -58,6 +58,7 @@ pages        = {527—-541},
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td>C. Lu, J. Feng, S. Yan, Z. Lin. A Unified Alternating Direction Method of Multipliers by Majorization Minimization. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, pp. 527-541, 2018</td></tr>
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td>C. Lu. A Library of ADMM for Sparse and Low-rank Optimization. National University of Singapore, June 2016. https://github.com/canyilu/LibADMM.</td></tr>
 </tbody>
 </table>
 
