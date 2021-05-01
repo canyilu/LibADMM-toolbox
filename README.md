@@ -1,10 +1,10 @@
-## LibADMM
+# LibADMM Toolbox
 
-### Introduction
+## 1. Introduction
 
 This toolbox solves many sparse, low-rank matrix and low-rank tensor optimization problems by using M-ADMM developed in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
-### List of Problems
+## 2. List of Problems
 
 The table below gives the list of problems solved in our toolbox. See more details in the manual at <a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">https://canyilu.github.io/publications/2016-software-LibADMM.pdf</a>. 
 
@@ -12,7 +12,7 @@ The table below gives the list of problems solved in our toolbox. See more detai
 <img src="https://github.com/canyilu/LibADMM/blob/master/tab_problemlist.JPG">
 </p>
 
-### Citation
+### 3. Citation
 
 <p>In citing this toolbox in your papers, please use the following references:</p>
 
@@ -45,7 +45,7 @@ number       = {3},
 pages        = {527—-541},
 }</pre></div>
 
-### Version History
+## 4. Version History
 - Version 1.0 was released on June, 2016.
 - Version 1.1 was released on June, 2018. Some key differences are below:
   + Add a new model about low-rank tensor recovery from Gaussian measurements based on tensor nuclear norm and the corresponding function lrtr_Gaussian_tnn.m
@@ -53,7 +53,7 @@ pages        = {527—-541},
   + Update the three example functions: example_sparse_models.m, example_low_rank_matrix_models.m, and example_low_rank_tensor_models.m
   + Remove the test on image data and some unnecessary functions
 
-### References
+## References
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
