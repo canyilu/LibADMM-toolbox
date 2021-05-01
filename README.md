@@ -12,7 +12,7 @@ The table below gives the list of problems solved in our toolbox. See more detai
 <img src="https://github.com/canyilu/LibADMM/blob/master/tab_problemlist.JPG">
 </p>
 
-### Citing
+### Citation
 
 <p>In citing this toolbox in your papers, please use the following references:</p>
 
